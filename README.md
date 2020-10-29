@@ -3,14 +3,14 @@
 Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music and traveling.
 <img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/hi.gif?raw=true" width="480" height="480" />
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Python; 
 - 😄 Pronouns: …the art of elegant idleness ✈️🚤⚓ Casa Susegad
-- ⚡ Fun fact: ...Everday, I stand atop a mountain and it’s a free fall.... I love it🖤 
+- ⚡ Fun fact: Everday, I stand atop a mountain and it’s a free fall...I love it🖤 
 
-**Languages and Tools:**  
+**Languages and Tools**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
