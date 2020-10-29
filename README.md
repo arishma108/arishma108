@@ -33,8 +33,8 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ðŸš
 <a href="https://www.facebook.com/user/geekyabhi/">
 <img align="left" alt="Arishma's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg" />
 </a>
-<br>        
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+       
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=arishma108.arishma108)
 
 
 <!--
