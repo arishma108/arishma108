@@ -1,6 +1,5 @@
-### Hello World 👋
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br>
 <a href="https://twitter.com/persadian">
   <img align="left" alt="Arishma Persadh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,7 +17,6 @@ Hi, I'm [Arishma Persadh](https://persadian.darjyo.com/), a Software Engineer �
 
   <img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/hi.gif?raw=true" width="480" height="480" />
   
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
