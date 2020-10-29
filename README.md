@@ -1,5 +1,4 @@
 ### Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <a href="https://twitter.com/persadian">
 <img align="left" alt="Arishma Persadh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -12,7 +11,7 @@
 <a href="https://www.facebook.com/user/geekyabhi/">
 <img align="left" alt="Arishma's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg" />
 </a>
-<br/>
+<br />
 Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music and traveling.
 <img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/hi.gif?raw=true" width="480" height="480" />
   
