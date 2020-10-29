@@ -8,7 +8,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer �
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Python; 
 - 😄 Pronouns: …the art of elegant idleness ✈️🚤⚓ Casa Susegad
-- 🖤 Fun fact: Everday, I stand atop a mountain & it’s a freefall. I love it! 
+- 🖤 Everyday: I stand atop a mountain & it’s a freefall. I love it! 
 
 **Languages and Tools**  
 
