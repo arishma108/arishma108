@@ -16,7 +16,7 @@
 <br />
 Hi, I'm [Arishma Persadh](https://persadian.darjyo.com/), a Software Engineer 🚀 Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/hi.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/hi.gif?raw=true" width="480" height="480" />
   
 
 **Talking about Personal Stuffs:**
