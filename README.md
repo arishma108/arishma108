@@ -1,9 +1,5 @@
 ### Hello World 👋
 
-<!--
-**arishma108/arishma108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/persadian">
   <img align="left" alt="Arishma Persadh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -43,6 +39,8 @@ Hi, I'm [Arishma Persadh](https://persadian.darjyo.com/), a Software Engineer �
 
 
 
+<!--
+**arishma108/arishma108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
