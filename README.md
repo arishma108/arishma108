@@ -1,25 +1,17 @@
-### Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music and traveling.
 <img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/hi.gif?raw=true" width="380" height="380" />
   
-**Talking about Personal Stuff:**
+## Talking about Personal Stuff:
 
 - 👨🏽‍💻 I’m working on something cool :wink:
 - 🌱 I’m currently learning Quantum Computing 
 - 😄 Pronouns: …the art of elegant idleness ✈️🚤⚓ Casa Susegad
 - 🖤 Everyday: I stand atop a mountain & it’s a freefall. I love it! 
 
-**Languages and Tools**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-## My Skill Set  
+## Languages and Tools 
+  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
