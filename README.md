@@ -5,8 +5,8 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer �
   
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m working on something cool :wink:;
-- 🌱 I’m currently learning Quantum Computing; 
+- 👨🏽‍💻 I’m working on something cool :wink:
+- 🌱 I’m currently learning Quantum Computing 
 - 😄 Pronouns: …the art of elegant idleness ✈️🚤⚓ Casa Susegad
 - 🖤 Everyday: I stand atop a mountain & it’s a freefall. I love it! 
 
@@ -35,6 +35,15 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer �
 </a>
      
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=arishma108.arishma108)
+
+<p>
+<a href="https://github.com/thmsgbrt" target="_blank">
+  <img alt="0 src="https://github.com/arishma108/arishma108/blob/main/assets/0.webp" /></a> 
+<a href="https://..." target="_blank">
+  <img alt="Twitter" src="https://.." /></a> <a href="https://www..." target="_blank">
+  <img alt="LinkedIn" src="https://.." /></a> <a href="https://.." target="_blank">
+  <img alt="Medium" src="https://..." /></a>
+</p>
 
 
 <!--
