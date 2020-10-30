@@ -32,7 +32,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ğŸš
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/PSD.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/AI.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/PP.svg" alt="Premiere Pro" height="50" />  
-<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/ACC.svg" alt="Creative Cloud" height="50" />  
+
 </div></td><td valign="top" width="33%">
 
 ### Backend  
