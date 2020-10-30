@@ -19,7 +19,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ğŸš
 <img align="left" alt="Arishma's Facebook" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/3.gif" />
 <img align="left" alt="Arishma's Facebook" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/5.gif" />
 <img align="left" alt="Arishma's Facebook" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/4.gif" />
-
+<img align="left" alt="Arishma's Facebook" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/6.gif" />
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
