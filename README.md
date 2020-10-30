@@ -4,7 +4,7 @@
 Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music and traveling.
 <img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/hi.gif?raw=true" width="380" height="380" />
 
-<br>  <br>
+<img align="left" alt="1" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/1.gif" />
 
 ### Talking about Personal Stuff:
 
@@ -14,12 +14,12 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer �
 - 🖤 Everyday: I stand atop a mountain & it’s a freefall. I love it! 
 
 
-<img align="left" alt="Arishma's Facebook" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/1.gif" />
-<img align="left" alt="Arishma's Facebook" width="50px" src="https://github.com/arishma108/arishma108/blob/main/assets/2.gif" />
-<img align="left" alt="Arishma's Facebook" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/3.gif" />
-<img align="left" alt="Arishma's Facebook" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/5.gif" />
-<img align="left" alt="Arishma's Facebook" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/4.gif" />
-<img align="left" alt="Arishma's Facebook" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/6.gif" />
+<img align="left" alt="2" width="50px" src="https://github.com/arishma108/arishma108/blob/main/assets/2.gif" />
+<img align="left" alt="3" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/3.gif" />
+<img align="left" alt="5" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/5.gif" />
+<img align="left" alt="4" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/4.gif" />
+<img align="left" alt="6" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/6.gif" />
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
