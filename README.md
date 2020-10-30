@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=arishma108.arishma108)
 
 Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music and traveling.
-<img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/hi.gif?raw=true" width="300" height="300" />
+<img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/hi.gif?raw=true" width="380" height="380" />
 
 ### Talking about Personal Stuff:
 
@@ -11,7 +11,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer �
 - 😄 Pronouns: …the art of elegant idleness ✈️🚤⚓ Casa Susegad
 - 🖤 Everyday: I stand atop a mountain & it’s a freefall. I love it! 
 
-<img align="left" alt="6" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/6.gif" />
+<img align="left" alt="6" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/0.gif" />
 
 <table><tr><td valign="top" width="33%">
 
