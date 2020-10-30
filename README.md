@@ -45,7 +45,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ðŸš
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/Linux.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/docker.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/GCP.png" alt="GCP" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /> 
