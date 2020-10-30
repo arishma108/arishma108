@@ -55,16 +55,16 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ğŸš
 ### Find Me HereğŸ‘‡**  
 
 <a href="https://twitter.com/persadian">
-<img align="left" alt="Arishma Persadh | Twitter" width="22px" src="https://github.com/arishma108/arishma108/blob/main/assets/twitter-bird-animated-logo.gif" />
+<img align="left" alt="Arishma Persadh | Twitter" width="50px" src="https://github.com/arishma108/arishma108/blob/main/assets/twitter-bird-animated-logo.gif" />
 </a>
 <a href="https://www.linkedin.com/in/d-r-persadh-99005a21//">
-<img align="left" alt="Arishma's LinkedIn" width="22px" src="https://github.com/arishma108/arishma108/blob/main/assets/LinkedIn.gif" />
+<img align="left" alt="Arishma's LinkedIn" width="50px" src="https://github.com/arishma108/arishma108/blob/main/assets/LinkedIn.gif" />
 </a>
 <a href="https://www.instagram.com/persadian/">
-<img align="left" alt="Arishma's Instagram" width="22px" src="https://github.com/arishma108/arishma108/blob/main/assets/instagram-logo-animation-1-1.gif" />
+<img align="left" alt="Arishma's Instagram" width="50px" src="https://github.com/arishma108/arishma108/blob/main/assets/instagram-logo-animation-1-1.gif" />
 </a>
 <a href="https://www.facebook.com/arishma.persadh/">
-<img align="left" alt="Arishma's Facebook" width="22px" src="https://github.com/arishma108/arishma108/blob/main/assets/FB.gif" />
+<img align="left" alt="Arishma's Facebook" width="50px" src="https://github.com/arishma108/arishma108/blob/main/assets/FB.gif" />
 </a>
      
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=arishma108.arishma108)
