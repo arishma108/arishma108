@@ -66,7 +66,10 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ðŸš
 <a href="https://www.facebook.com/arishma.persadh/">
 <img align="left" alt="Arishma's Facebook" width="200px" src="https://github.com/arishma108/arishma108/blob/main/assets/facebook.gif" />
 </a>
-<br>     
+
+<br> 
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=arishma108.arishma108)
 
 
