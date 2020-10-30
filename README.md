@@ -1,4 +1,5 @@
-### Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=arishma108.arishma108)
 
 Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ðŸš€ beside's programming, I enjoy eating, reading, music and traveling.
 <img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/hi.gif?raw=true" width="380" height="380" />
@@ -70,7 +71,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ðŸš
 <br> 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=arishma108.arishma108)
+
 
 
 
