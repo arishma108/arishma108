@@ -14,10 +14,10 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer �
 - 🖤 Everyday: I stand atop a mountain & it’s a freefall. I love it! 
 
 
-<img align="left" alt="Arishma's Facebook" width="50px" src="https://github.com/arishma108/arishma108/blob/main/assets/1.gif" />
-<img align="left" alt="Arishma's Facebook" width="50px" src="https://github.com/arishma108/arishma108/blob/main/assets/2.gif" />
-<img align="left" alt="Arishma's Facebook" width="50px" src="https://github.com/arishma108/arishma108/blob/main/assets/3.gif" />
-<img align="left" alt="Arishma's Facebook" width="50px" src="https://github.com/arishma108/arishma108/blob/main/assets/5.gif" />
+<img align="left" alt="Arishma's Facebook" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/1.gif" />
+<img align="left" alt="Arishma's Facebook" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/2.gif" />
+<img align="left" alt="Arishma's Facebook" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/3.gif" />
+<img align="left" alt="Arishma's Facebook" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/5.gif" />
 
 <table><tr><td valign="top" width="33%">
 
