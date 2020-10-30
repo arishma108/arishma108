@@ -2,7 +2,9 @@
 
 Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music and traveling.
 <img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/hi.gif?raw=true" width="380" height="380" />
-  
+
+<br>  <br>
+
 ### Talking about Personal Stuff:
 
 - 👨🏽‍💻 I’m working on something cool :wink:
