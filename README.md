@@ -5,7 +5,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer �
 <img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/hi.gif?raw=true" width="380" height="380" />
 
 <img align="left" alt="1" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/1.gif" />
-
+<img align="left" alt="1" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/1.gif" />
 ### Talking about Personal Stuff:
 
 - 👨🏽‍💻 I’m working on something cool :wink:
