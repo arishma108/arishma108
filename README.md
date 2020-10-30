@@ -12,7 +12,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer �
 - 🖤 Everyday: I stand atop a mountain & it’s a freefall. I love it! 
 
 <img align="left" alt="6" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/6.gif" />
-<img align="left" alt="6" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/6.gif" />
+<img align="right" alt="6" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/6.gif" />
 <img align="left" alt="6" width="100px" src="https://github.com/arishma108/arishma108/blob/main/assets/6.gif" />
 <table><tr><td valign="top" width="33%">
 
