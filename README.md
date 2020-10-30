@@ -16,11 +16,11 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ðŸš
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/VS.svg" alt="Visual Studio Code" height="50" />  <br>
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/VS.svg" alt="Visual Studio Code" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/HTML_icon.png" alt="HTML" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/C.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/JS.svg" alt="JavaScript" height="50" />  <br>
-<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/XD.svg" alt="XD" height="50" />  <br>
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/XD.svg" alt="XD" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/PSD.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/AI.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/PP.svg" alt="Premiere Pro" height="50" />  
@@ -30,13 +30,13 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ðŸš
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/SQL.png" alt="SQL" height="50" />
-<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/UML.png" alt="UML" height="50" />   <br> 
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/UML.png" alt="UML" height="50" />    
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/J.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/C%2B%2B.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/VC%2B%2B.png" alt="VC++" height="50" />  <br>
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/VC%2B%2B.png" alt="VC++" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/XML.png" alt="XML" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/VBS.png" alt="VB" height="50" />  
-<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/ASP.svg" alt="ASP.NET" height="50" /> <br> 
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/ASP.svg" alt="ASP.NET" height="50" /> <br>
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/N.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/PY.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/Q.png" alt="Qiskit" height="50" />  
@@ -44,10 +44,10 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ðŸš
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/Linux.svg" alt="Linux" height="50" />  <br>
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/Linux.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/docker.svg" alt="Docker" height="50" /> <br> 
-<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/GCP.png" alt="GCP" height="50" /> <br>
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/docker.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/GCP.png" alt="GCP" height="50" /> 
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/AWS.svg" alt="AWS" height="50" /> 
 </div></td></tr></table>  
 
