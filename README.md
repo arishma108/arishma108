@@ -30,7 +30,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ğŸš
 <a href="https://www.instagram.com/persadian/">
 <img align="left" alt="Arishma's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/user/geekyabhi/">
+<a href="https://www.facebook.com/arishma.persadh/">
 <img align="left" alt="Arishma's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg" />
 </a>
      
@@ -38,7 +38,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ğŸš
 
 <p>
 <img align="left" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/0.webp?raw=true" width="150" height="150" />
-
+<img align="left" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/xo.webp?raw=true" width="150" height="150" />
 
 <!--
 **arishma108/arishma108** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
