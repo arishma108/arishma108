@@ -1,17 +1,16 @@
-## Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music and traveling.
 <img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/hi.gif?raw=true" width="380" height="380" />
   
-## Talking about Personal Stuff:
+### Talking about Personal Stuff:
 
 - 👨🏽‍💻 I’m working on something cool :wink:
 - 🌱 I’m currently learning Quantum Computing 
 - 😄 Pronouns: …the art of elegant idleness ✈️🚤⚓ Casa Susegad
 - 🖤 Everyday: I stand atop a mountain & it’s a freefall. I love it! 
 
-## Languages and Tools 
-  
+### Languages and Tools 
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
