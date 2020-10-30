@@ -28,11 +28,12 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ðŸš
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/HTML_icon.png" alt="HTML" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/C.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/JS.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/XD.svg" alt="XD" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/PSD.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/AI.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/PP.svg
+                               " alt="Premiere Pro" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/ACC.svg" alt="Creative Cloud" height="50" />  
 </div></td><td valign="top" width="33%">
 
 ### Backend  
