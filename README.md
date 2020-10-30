@@ -37,26 +37,26 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ðŸš
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/SQL.png" alt="SQL" height="50" />
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/UML.png" alt="UML" height="50" />    
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/J.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/Linux.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/C%2B%2B.svg" alt="C++" height="50" /> 
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/CGI.png" alt="CGI" height="50" />    
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/N.svg" alt="Node.js" height="50" />  <br>
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/VC%2B%2B.png" alt="VC++" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/XML.png" alt="XML" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/VBS.png" alt="VB" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/ASP.svg" alt="ASP.NET" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/PY.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/Q.png" alt="Qiskit" height="50" />  
 </div></td><td valign="top" width="33%">
 
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/Linux.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div></td></tr></table>  
