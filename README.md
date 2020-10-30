@@ -12,7 +12,6 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ğŸš
 
 ### Languages and Tools 
 <table><tr><td valign="top" width="33%">
-
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/VS.svg" alt="Visual Studio Code" height="50" />  
@@ -23,7 +22,6 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ğŸš
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/PSD.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/AI.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/PP.svg" alt="Premiere Pro" height="50" />  
-
 </div></td><td valign="top" width="33%">
 
 ### Backend  
@@ -53,7 +51,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ğŸš
 <br/>
 
 
-**Find Me HereğŸ‘‡**  
+### Find Me HereğŸ‘‡**  
 
 <a href="https://twitter.com/persadian">
 <img align="left" alt="Arishma Persadh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
