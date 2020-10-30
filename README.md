@@ -24,10 +24,10 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ðŸš
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/VS.svg" alt="Visual Studio Code" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/HTML_icon.png" alt="HTML" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/C.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/JS.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
