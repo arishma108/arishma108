@@ -40,7 +40,6 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ğŸš
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/SQL.png" alt="SQL" height="50" />
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/UML.png" alt="UML" height="50" />    
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/J.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/Linux.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/C%2B%2B.svg" alt="C++" height="50" /> 
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/CGI.png" alt="CGI" height="50" />    
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/N.svg" alt="Node.js" height="50" />  <br>
