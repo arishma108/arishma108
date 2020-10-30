@@ -59,7 +59,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ğŸš
 <img align="left" alt="Arishma Persadh | Twitter" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/twitter-bird-animated-logo.gif" />
 </a>
 <a href="https://www.linkedin.com/in/d-r-persadh-99005a21//">
-<img align="left" alt="Arishma's LinkedIn" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/LinkedIn.gif" />
+<img align="left" alt="Arishma's LinkedIn" width="200px" src="https://github.com/arishma108/arishma108/blob/main/assets/LinkedIn.gif" />
 </a>
 <a href="https://www.instagram.com/persadian/">
 <img align="left" alt="Arishma's Instagram" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/instagram-logo-animation-1-1.gif" />
