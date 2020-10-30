@@ -5,8 +5,8 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer �
   
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Python; 
+- 👨🏽‍💻 I’m working on something cool :wink:;
+- 🌱 I’m currently learning Quantum Computing; 
 - 😄 Pronouns: …the art of elegant idleness ✈️🚤⚓ Casa Susegad
 - 🖤 Everyday: I stand atop a mountain & it’s a freefall. I love it! 
 
