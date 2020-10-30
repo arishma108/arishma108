@@ -10,8 +10,8 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer �
 - 😄 Pronouns: …the art of elegant idleness ✈️🚤⚓ Casa Susegad
 - 🖤 Everyday: I stand atop a mountain & it’s a freefall. I love it! 
 
-### Languages and Tools 
 <table><tr><td valign="top" width="33%">
+
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/VS.svg" alt="Visual Studio Code" height="50" />  
@@ -49,7 +49,6 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer �
 </div></td></tr></table>  
 
 <br/>
-
 
 ### Find Me Here👇**  
 
