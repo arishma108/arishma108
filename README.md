@@ -37,13 +37,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ðŸš
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=arishma108.arishma108)
 
 <p>
-<a href="https://github.com/thmsgbrt" target="_blank">
-  <img alt="0 src="https://github.com/arishma108/arishma108/blob/main/assets/0.webp" /></a> 
-<a href="https://..." target="_blank">
-  <img alt="Twitter" src="https://.." /></a> <a href="https://www..." target="_blank">
-  <img alt="LinkedIn" src="https://.." /></a> <a href="https://.." target="_blank">
-  <img alt="Medium" src="https://..." /></a>
-</p>
+<img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/0.webp?raw=true" width="50" height="50" />
 
 
 <!--
