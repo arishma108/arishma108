@@ -27,7 +27,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ğŸš
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/VS.svg" alt="Visual Studio Code" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/HTML_icon.png" alt="HTML" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/C.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/JS.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/JS.svg" alt="JavaScript" height="50" />  <br>
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/XD.svg" alt="XD" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/PSD.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/AI.svg" alt="Illustrator" height="50" />  
