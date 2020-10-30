@@ -62,10 +62,10 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ğŸš
 <img align="left" alt="Arishma's LinkedIn" width="200px" src="https://github.com/arishma108/arishma108/blob/main/assets/LinkedIn.gif" />
 </a>
 <a href="https://www.instagram.com/persadian/">
-<img align="left" alt="Arishma's Instagram" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/instagram-logo-animation-1-1.gif" />
+<img align="left" alt="Arishma's Instagram" width="200px" src="https://github.com/arishma108/arishma108/blob/main/assets/instagram-logo-animation-1-1.gif" />
 </a>
 <a href="https://www.facebook.com/arishma.persadh/">
-<img align="left" alt="Arishma's Facebook" width="200px" src="https://github.com/arishma108/arishma108/blob/main/assets/facebook.gif" />
+<img align="left" alt="Arishma's Facebook" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/facebook.gif" />
 </a>
 
 <br> 
