@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=arishma108.arishma108)
 
 Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music and traveling.
-<img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/and.gif?raw=true" width="380" height="380" />
+<img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/and.gif?raw=true" width="250" height="250" />
 
 ### Talking about Personal Stuff:
 
