@@ -49,8 +49,6 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer ğŸš
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/AWS.svg" alt="AWS" height="50" /> 
 </div></td></tr></table>  
 
-<br/>
-
 ### Find Me HereğŸ‘‡**  
 
 <a href="https://twitter.com/persadian">
