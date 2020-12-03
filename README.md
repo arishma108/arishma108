@@ -1,6 +1,6 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=arishma108.arishma108)
-
+<a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="30" width="30"></a>
 Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music and traveling.
 <img align="right" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/and.gif?raw=true" width="200" height="200" />
 
