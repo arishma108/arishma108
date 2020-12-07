@@ -6,7 +6,7 @@ Hi, I'm Arishma Persadh (https://persadian.darjyo.com/), a Software Engineer �
 
 ### Talking about Personal Stuff:
 
-- 👨🏽‍💻 <a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="30" width="30"></a>
+- <a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="30" width="30"></a>
 I’m working on something cool :wink:
 - 🌱 I’m currently learning Quantum Computing 
 - 😄 Pronouns: …the art of elegant idleness ✈️🚤⚓ Casa Susegad
