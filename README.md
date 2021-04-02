@@ -1,7 +1,7 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=arishma108.arishma108)
 
-#### I'm Arishma https://www.darjyo.com/ a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music & traveling.
+#### I'm Arishma <a href="https://www.darjyo.com/> @DARJYO </a> a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music & traveling.
 <img align="left" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/octocat-1607798923881.png?raw=true" width="200" height="200" />
 
 ### Talking about Personal Stuff:
