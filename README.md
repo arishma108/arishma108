@@ -65,11 +65,11 @@ I’m working on something cool :wink:
 </a>
 
 <br> 
+<br>
 
 
 
-
-### You can preview My Holopin badges here👇*
+### You can preview My Holopin badges here👇
 [![An image of @persadian's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/persadian)](https://holopin.io/@persadian)
 
 
