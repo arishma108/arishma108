@@ -69,7 +69,7 @@ I’m working on something cool :wink:
 
 
 
-### You can preview My Holopin badges here👇
+### Preview of My Holopin badges👇
 [![An image of @persadian's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/persadian)](https://holopin.io/@persadian)
 
 
