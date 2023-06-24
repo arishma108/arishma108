@@ -1,5 +1,4 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=arishma108.arishma108)
 
 #### I'm a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music & traveling.
 <a href="https://app.daily.dev/persadian"><img src="https://api.daily.dev/devcards/bd4467b2632e4a638def775dfcf3ded7.png?r=qwr" width="200" alt="null's Dev Card"/></a>
