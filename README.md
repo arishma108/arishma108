@@ -1,7 +1,6 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### I'm a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music & traveling.
-<a href="https://app.daily.dev/persadian"><img src="https://api.daily.dev/devcards/bd4467b2632e4a638def775dfcf3ded7.png?r=qwr" width="200" alt="null's Dev Card"/></a>
 <img src="https://github.com/arishma108/arishma108/blob/main/assets/Darshani%20R%20Persadh%20WEF%20Uplink%20Badge.png?r=qwr" width="200" alt="Uplink Badge"/></a>  
 ### Talking about Personal Stuff:
 
