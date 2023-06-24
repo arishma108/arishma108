@@ -3,7 +3,6 @@
 
 #### I'm a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music & traveling.
 <a href="https://app.daily.dev/persadian"><img src="https://api.daily.dev/devcards/bd4467b2632e4a638def775dfcf3ded7.png?r=qwr" width="200" alt="null's Dev Card"/></a>
-
 ### Talking about Personal Stuff:
 
 - <a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="30" width="30"></a>
