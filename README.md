@@ -3,6 +3,7 @@
 
 #### I'm a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music & traveling.
 <img align="left" alt="GIF" src="https://github.com/arishma108/arishma108/blob/main/assets/octocat-1607798923881.png?raw=true" width="200" height="200" />
+<a href="https://app.daily.dev/persadian"><img src="https://api.daily.dev/devcards/bd4467b2632e4a638def775dfcf3ded7.png?r=qwr" width="400" alt="null's Dev Card"/></a>
 
 ### Talking about Personal Stuff:
 
