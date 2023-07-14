@@ -9,8 +9,7 @@
 
 <a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="30" width="30"></a>
 I’m building my lemonade stand :wink:
-<a href="https://www.cloudskillsboost.google/public_profiles/82c5ffa2-ddf4-46e9-8f0e-aea40e5ed2e1">
-<img src="https://github.com/arishma108/arishma108/blob/main/assets/Innovators_horizontal_rgb.png"" alt="persadian's Google Innovator" height="30%" width="30%"></a>
+<a href="https://g.dev/persadian"><img src="https://github.com/arishma108/arishma108/blob/main/assets/Innovators_horizontal_rgb.png" alt="persadian's Google Innovator" height="30%" width="30%"></a>
 
 <table><tr><td valign="top" width="33%">
 
