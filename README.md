@@ -5,7 +5,7 @@
 ### Talking about Personal Stuff:
 
 - <a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="30" width="30"></a>
-I’m working on something cool :wink:
+I’m building my lemonade stand :wink:
 - 🌱  I’m currently learning Quantum Computing 
 - 😄  Pronouns: …the art of elegant idleness ✈️🚤⚓ Casa Susegad
 - 🖤  Everyday: I stand atop a mountain & it’s a freefall. I love it! 
