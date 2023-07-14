@@ -14,7 +14,7 @@ as a
 
 I’m building my lemonade stand :wink:
 
-<a href="https://g.dev/persadian"><img src="https://github.com/arishma108/arishma108/blob/main/assets/GC Innovator.png" alt="persadian's Google Innovator" height="30%" width="30%"></a>
+<a href="https://g.dev/persadian"><img src="https://github.com/arishma108/arishma108/blob/main/assets/GC Innovator.png" alt="persadian's Google Innovator" height="20%" width="20%"></a>
 
 <table><tr><td valign="top" width="33%">
 
