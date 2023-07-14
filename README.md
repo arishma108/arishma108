@@ -1,4 +1,4 @@
-### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+### Hello <a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="50" width="50"></a> World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 #### I'm a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music & traveling.
 <img align="center" height="300px" width="300px" src="https://github.com/arishma108/arishma108/blob/main/assets/output-onlinegiftools.gif"></a>  
@@ -8,7 +8,7 @@
 - 🖤  Everyday: I stand atop a mountain & it’s a freefall. I love it! 
 
 
-<a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="50" width="50"></a>
+
 
 I’m building my lemonade stand :wink:
 
