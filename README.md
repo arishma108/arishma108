@@ -8,8 +8,6 @@
 - 🖤  Everyday: I stand atop a mountain & it’s a freefall. I love it! 
 
 
-
-as a 
 <a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="50" width="50"></a>
 
 I’m building my lemonade stand :wink:
