@@ -1,5 +1,4 @@
-### Hello World 
-<img src="https://github.com/arishma108/arishma108/blob/main/assets/hi.gif" height="5%" width="5%">
+### Hello World <img src="https://github.com/arishma108/arishma108/blob/main/assets/hi.gif" height="6%" width="6%">
 
 #### I'm a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music & traveling.
 <img align="center" height="300px" width="150px" src="https://github.com/arishma108/arishma108/blob/main/assets/vine.gif"></a>
