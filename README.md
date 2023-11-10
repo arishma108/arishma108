@@ -10,7 +10,7 @@
 I’m building my lemonade stand :wink: <a href="https://g.dev/persadian"><img src="https://github.com/arishma108/arishma108/blob/main/assets/Google_Developer_logo.png" alt="Google Developer" height="15%" width="15%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/82c5ffa2-ddf4-46e9-8f0e-aea40e5ed2e1"><img src="https://github.com/arishma108/arishma108/blob/main/assets/GC Innovator.png" alt="Google Innovator" height="7.5%" width="7.5%"></a>
 
-- 🌱  I’m currently learning Quantum Computing <img align="center" height="50px" width="50px" src="https://github.com/arishma108/arishma108/blob/main/assets/QB.gif"></a> 
+- 🌱  I’m currently learning Quantum Computing <img src="https://github.com/arishma108/arishma108/blob/main/assets/QB.gif" height="15%" width="15%"></a> 
 - 😄  Pronouns: …the art of elegant idleness ✈️🚤⚓ Casa Susegad
 - 🖤  Everyday: I stand atop a mountain & it’s a freefall. I love it! 
 
