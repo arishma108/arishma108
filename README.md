@@ -54,26 +54,6 @@ I’m building my lemonade stand :wink: <a href="https://g.dev/persadian"><img s
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/AWS.svg" alt="AWS" height="50" /> 
 </div></td></tr></table>  
 
-### You can find Me Here👇**  
-<a href="https://twitter.com/persadian">
-<img align="left" alt="Arishma Persadh | Twitter" width="200px" src="https://github.com/arishma108/arishma108/blob/main/assets/twitter-bird-animated-logo.gif" />
-</a>
-<a href="https://www.linkedin.com/in/d-r-persadh-99005a21//">
-<img align="left" alt="Arishma's LinkedIn" width="200px" src="https://github.com/arishma108/arishma108/blob/main/assets/LinkedIn.gif" />
-</a>
-<a href="https://www.instagram.com/persadian/">
-<img align="left" alt="Arishma's Instagram" width="200px" src="https://github.com/arishma108/arishma108/blob/main/assets/instagram-logo-animation-1-1.gif" />
-</a>
-<a href="https://www.facebook.com/arishma.persadh/">
-<img align="left" alt="Arishma's Facebook" width="150px" src="https://github.com/arishma108/arishma108/blob/main/assets/FB.gif" />
-</a>
-
-<br> 
-<br>
-
-
-
-### Preview of My Holopin badges👇
 [![An image of @persadian's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/persadian)](https://holopin.io/@persadian)
 
 
