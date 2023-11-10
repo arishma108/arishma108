@@ -1,7 +1,10 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 #### I'm a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music & traveling.
+<img align="center" height="300px" width="300px" src="https://github.com/arishma108/arishma108/blob/main/assets/matrix.gif"></a> 
+<img align="center" height="300px" width="300px" src="https://github.com/arishma108/arishma108/blob/main/assets/S.gif"></a> 
 <img align="center" height="300px" width="300px" src="https://github.com/arishma108/arishma108/blob/main/assets/persadian.gif"></a>  
+<img align="center" height="300px" width="300px" src="https://github.com/arishma108/arishma108/blob/main/assets/maths.gif"></a> 
 ### Talking about Personal Stuff:
 - <a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="20" width="20"></a>
 I’m building my lemonade stand :wink: <a href="https://g.dev/persadian"><img src="https://github.com/arishma108/arishma108/blob/main/assets/Google_Developer_logo.png" alt="Google Developer" height="15%" width="15%"></a>
