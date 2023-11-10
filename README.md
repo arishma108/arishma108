@@ -3,7 +3,7 @@
 #### I'm a Software Engineer 🚀 beside's programming, I enjoy eating, reading, music & traveling.
 <img align="center" height="300px" width="150px" src="https://github.com/arishma108/arishma108/blob/main/assets/vine.gif"></a>
 <img align="center" height="250px" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/S.gif"></a> 
-<img align="center" height="350px" width="350px" src="https://github.com/arishma108/arishma108/blob/main/assets/persadian.gif"></a> 
+<img align="center" height="350px" width="400px" src="https://github.com/arishma108/arishma108/blob/main/assets/persadian.gif"></a> 
  
 
 ### Talking about Personal Stuff:
