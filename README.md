@@ -56,8 +56,6 @@ I’m building my lemonade stand :wink: <a href="https://g.dev/persadian"><img s
 
 [![An image of @persadian's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/persadian)](https://holopin.io/@persadian)
 
-<a href="https://app.daily.dev/persadian"><img src="https://api.daily.dev/devcards/v2/5fGwmODAh.png?type=default&r=ax5" width="356" alt="persadian's Dev Card"/></a>
-
 <!--
 **arishma108/arishma108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
