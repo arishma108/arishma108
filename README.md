@@ -1,4 +1,4 @@
-<img src="https://github.com/arishma108/arishma108/blob/main/assets/HelloWorld.gif" height="10%" width="10%">&npsp; <img src="https://raw.githubusercontent.com/tthn0/Spotify-Readme/main/assets/spotify.svg" height="5%" width="5%">
+<img src="https://github.com/arishma108/arishma108/blob/main/assets/HelloWorld.gif" height="10%" width="10%">    <img src="https://raw.githubusercontent.com/tthn0/Spotify-Readme/main/assets/spotify.svg" height="5%" width="5%">
 
 ---
 #### I'm a Software Engineer 🚀 beside's always Refactoring, I enjoy eating, reading, music & traveling.
