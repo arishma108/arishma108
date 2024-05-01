@@ -1,6 +1,6 @@
 <img src="https://github.com/arishma108/arishma108/blob/main/assets/HelloWorld.gif" height="10%" width="10%">
 
-<img align="center" height="300px" width="150px" src=https://raw.githubusercontent.com/tthn0/Spotify-Readme/main/assets/spotify.svg></a>
+<img src="https://raw.githubusercontent.com/tthn0/Spotify-Readme/main/assets/spotify.svg" height="10%" width="10%"></a>
 
 ---
 #### I'm a Software Engineer 🚀 beside's always Refactoring, I enjoy eating, reading, music & traveling.
