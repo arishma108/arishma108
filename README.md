@@ -1,5 +1,14 @@
 <img src="https://github.com/arishma108/arishma108/blob/main/assets/HelloWorld.gif" height="10%" width="10%">
+### Spotify Playing 🎧
+<table width="100%"> 
+  <tr>
+  <td width="50%">
 
+&nbsp; <br> [![Spotify][https://open.spotify.com/user/227idroakf4wsudt4zp5d2cwy]
+
+</table>
+    
+---
 #### I'm a Software Engineer 🚀 beside's always Refactoring, I enjoy eating, reading, music & traveling.
 <img align="center" height="300px" width="150px" src="https://github.com/arishma108/arishma108/blob/main/assets/vine.gif"></a>
 <img align="center" height="250px" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/S.gif"></a> 
