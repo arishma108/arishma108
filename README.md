@@ -1,5 +1,5 @@
 <img src="https://github.com/arishma108/arishma108/blob/main/assets/HelloWorld.gif" height="10%" width="10%">    
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRneTltMnZoY3ptd3VsZDZiMWNiNGlpbDF3MmIxN292c2pzbXJ5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5BUR9eNQdG5egwA0pO/giphy.gif" height="5%" width="5%">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRneTltMnZoY3ptd3VsZDZiMWNiNGlpbDF3MmIxN292c2pzbXJ5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5BUR9eNQdG5egwA0pO/giphy.gif" height="15%" width="15%">
 
 ---
 #### I'm a Software Engineer 🚀 beside's always Refactoring, I enjoy eating, reading, music & traveling.
