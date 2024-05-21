@@ -57,6 +57,9 @@ I’m building my lemonade stand :wink: <a href="https://g.dev/persadian"><img s
 
 [![An image of @persadian's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/persadian)](https://holopin.io/@persadian)
 
+
+
+<a href="https://www.credly.com/users/d-r-persadh/badges"><img src="https://github.com/arishma108/arishma108/blob/main/assets/credly.png" height="20%" width="20%">   
 <!--
 **arishma108/arishma108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
