@@ -4,7 +4,7 @@
 #### I'm a Software Engineer 🚀 beside's always Refactoring, I enjoy eating, reading, music & traveling.
 <img align="center" height="250px" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/steminist.gif"></a> 
 
-### View my <a href="https://www.credly.com/users/d-r-persadh/badges"><img src="https://github.com/arishma108/arishma108/blob/main/assets/credly.png" height="5%" width="5%">
+### View my <a href="https://www.credly.com/users/d-r-persadh/badges"><img src="https://github.com/arishma108/arishma108/blob/main/assets/credly.png" height="7%" width="7%">
 - <a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="20" width="20"></a>
 I’m building my lemonade stand :wink: <a href="https://g.dev/persadian"><img src="https://github.com/arishma108/arishma108/blob/main/assets/Google_Developer_logo.png" alt="Google Developer" height="15%" width="15%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/82c5ffa2-ddf4-46e9-8f0e-aea40e5ed2e1"><img src="https://github.com/arishma108/arishma108/blob/main/assets/GC Innovator.png" alt="Google Innovator" height="7.5%" width="7.5%"></a>
