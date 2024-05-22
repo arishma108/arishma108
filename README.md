@@ -2,7 +2,7 @@
 
 ---
 #### I'm a Software Engineer 🚀 beside's always Refactoring, I enjoy eating, reading, music & traveling.
-<img align="center" height="250px" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/S.gif"></a> 
+<img align="center" height="250px" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/S.gif"></a> <a href="https://www.credly.com/users/d-r-persadh/badges"><img src="https://github.com/arishma108/arishma108/blob/main/assets/credly.png" height="20%" width="20%"><a href="https://www.credly.com/users/d-r-persadh/badges">
 
 ### Talking about Personal Stuff:
 - <a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="20" width="20"></a>
@@ -56,8 +56,7 @@ I’m building my lemonade stand :wink: <a href="https://g.dev/persadian"><img s
 
 
 
-<a href="https://www.credly.com/users/d-r-persadh/badges"><img src="https://github.com/arishma108/arishma108/blob/main/assets/credly.png" height="20%" width="20%"><a href="https://www.credly.com/users/d-r-persadh/badges"><img src="https://github.com/arishma108/arishma108/blob/main/assets/Credly%20Banner.png" height="50%" width="50%"> 
-<!--
+
 **arishma108/arishma108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
