@@ -1,7 +1,7 @@
 <img src="https://github.com/arishma108/arishma108/blob/main/assets/HelloWorld.gif" height="10%" width="10%">    
 
 ---
-#### I'm a Software Engineer 🚀 beside's always Refactoring, I enjoy eating, reading, music & traveling.
+#### I'm a Software <height="250px" width="250px" img src="https://github.com/arishma108/arishma108/blob/main/assets/engineer.gif"> 🚀 beside's always Refactoring, I enjoy eating, reading, music & traveling.
 <img align="center" height="250px" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/steminist.gif"></a> <a href="https://www.credly.com/users/d-r-persadh/badges"><img src="https://github.com/arishma108/arishma108/blob/main/assets/credly.png" height="20%" width="20%"><a href="https://www.credly.com/users/d-r-persadh/badges">
 
 ### Talking about Personal Stuff:
