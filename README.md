@@ -2,10 +2,7 @@
 
 ---
 #### I'm a Software Engineer 🚀 beside's always Refactoring, I enjoy eating, reading, music & traveling.
-<img align="center" height="300px" width="150px" src="https://github.com/arishma108/arishma108/blob/main/assets/vine.gif"></a>
 <img align="center" height="250px" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/S.gif"></a> 
-<img align="center" height="350px" width="400px" src="https://github.com/arishma108/arishma108/blob/main/assets/persadian.gif"></a> 
- 
 
 ### Talking about Personal Stuff:
 - <a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="20" width="20"></a>
