@@ -57,7 +57,7 @@ I’m building my lemonade stand :wink: <a href="https://g.dev/persadian"><img s
 
 
 
-**arishma108/arishma108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
