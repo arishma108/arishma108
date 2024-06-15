@@ -16,7 +16,7 @@ I’m building my lemonade stand :wink: <a href="https://g.dev/persadian"><img s
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+###   
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/VS.svg" alt="Visual Studio Code" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/HTML_icon.png" alt="HTML" height="50" />  
@@ -28,7 +28,7 @@ I’m building my lemonade stand :wink: <a href="https://g.dev/persadian"><img s
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/PP.svg" alt="Premiere Pro" height="50" />  
 </div></td><td valign="top" width="33%">
 
-### Backend  
+###  
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/SQL.png" alt="SQL" height="50" />
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/UML.png" alt="UML" height="50" />    
@@ -43,7 +43,7 @@ I’m building my lemonade stand :wink: <a href="https://g.dev/persadian"><img s
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/Q.png" alt="Qiskit" height="50" />  
 </div></td><td valign="top" width="33%">
 
-### DevOps  
+### 
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/Linux.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://github.com/arishma108/arishma108/blob/main/assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
