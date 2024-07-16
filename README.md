@@ -2,7 +2,7 @@
 
 ---
 #### I'm a Software Engineer 🚀 beside's always Refactoring, I enjoy eating, reading, music & traveling.
-<img align="center" height="250px" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/persadian.dev%40EpicGames.png" height="681px" width="330px"></a> 
+<img align="center" height="250px" width="250px" src="https://github.com/arishma108/arishma108/blob/main/assets/persadian.dev%40EpicGames.png" height="660px" width="1362px"></a> 
 
 ### View my <a href="https://www.credly.com/users/d-r-persadh/badges"><img src="https://github.com/arishma108/arishma108/blob/main/assets/credly.png" height="7%" width="7%">
 - <a href="https://dev.to/persadian"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="persadian's DEV Profile" height="20" width="20"></a>
