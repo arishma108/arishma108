@@ -10,7 +10,7 @@ I’m refining my lemonade stand :wink: <a href="https://g.dev/persadian"><img s
 
 - 🌱  I’m currently learning Quantum Computing<img src="https://github.com/arishma108/arishma108/blob/main/assets/brain.gif" height="4%" width="4%"><img src="https://github.com/arishma108/arishma108/blob/main/assets/qb.gif" height="3%" width="3%"><img src="https://github.com/arishma108/arishma108/blob/main/assets/maths.gif" height="4%" width="4%"> 
 - <img src="https://github.com/arishma108/arishma108/blob/main/assets/matrix.gif" height="3%" width="3%"> …the art of elegant idleness ✈️🚤⚓ Casa Susegad
-- 🖤  Everyday: I stand atop a mountain & it’s a freefall. I love it! 
+- 🖤  Everyday: I stand atop a mountain, it’s a freefall & I love it! 
 
 
 <table><tr><td valign="top" width="33%">
